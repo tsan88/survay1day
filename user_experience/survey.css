@@ -1,0 +1,24 @@
+.demo-card-wide.mdl-card {
+  width: auto;
+}
+.mdl-card__actions {
+  display: flex;
+  box-sizing:border-box;
+  align-items: center;
+}
+.mdl-card__actions > .mdl-button--right {
+  margin-right: 3px;
+  margin-left: 3px;
+}
+
+ul.legend {
+    list-style: none;
+    margin: 0 0 0 0px;
+    padding: 0;
+}
+ul.legend li {
+	text-align:center;
+    float: left;
+    width: 20%;
+    margin: 0 0px;
+}
